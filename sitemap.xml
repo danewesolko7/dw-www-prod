@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>about.html</loc>
+</url>
+<url>
+<loc>case-studies.html</loc>
+</url>
+<url>
+<loc>contact.html</loc>
+</url>
+<url>
+<loc>../case-studies/coramed.html</loc>
+</url>
+<url>
+<loc>index.html</loc>
+</url>
+<url>
+<loc>../case-studies/iqvia.html</loc>
+</url>
+<url>
+<loc>../case-studies/pfizer.html</loc>
+</url>
+<url>
+<loc>thank-you.html</loc>
+</url>
+</urlset>
